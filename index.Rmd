@@ -142,7 +142,7 @@ class: middle
 
 --
 
-### Mandat OES de novembre 2020
+### Mandat OES de février 2020
 
 Formation de 44 heures réparties en 4 parties (ou thèmes) 
 
