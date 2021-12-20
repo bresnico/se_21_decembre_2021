@@ -194,11 +194,14 @@ class: middle
 
 # Prochaines missions
 
-- Communication: nom de la formation, visuels, espace web, mise à jour du concept
-- Administration: préparation des espaces technologiques (Moodle, Teams), engagements
-- Design pédagogique: formalisation des contenus, cahiers des charges des équipes
+### Communication
+Nom de la formation, visuels, espace web, mise à jour du concept
+### Administration
+Préparation des espaces technologiques (Moodle, Teams), engagements
+### Design pédagogique
+Formalisation des contenus, cahiers des charges des équipes
 
-Avec participation du conseil scientifique t du groupe consultatif.
+**Avec participation du conseil scientifique et du groupe consultatif.**
 
 ---
 
