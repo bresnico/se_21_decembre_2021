@@ -205,6 +205,8 @@ class: middle
 
 # Prochaines missions
 
+--
+
 ### Communication
 Nom de la formation, visuels, espace web, mise à jour du concept
 ### Administration
