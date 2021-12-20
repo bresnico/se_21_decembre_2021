@@ -188,6 +188,17 @@ class: middle
 
 # Gestion budgétaire - Décision
 
+--
+
+### Coût global des cours
+estimation à environ 147'000.- 
+
+### Coût global de la planification et la gestion
+estimation à environ 87'000.-
+
+### Coût par enseignant·e spécialisé·e
+Sur une base de 400 ES, la formation revient à CHF 600 pp.
+
 ---
 
 class: middle
