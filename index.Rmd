@@ -1,5 +1,5 @@
 ---
-title: "Formation continue obligatoire des ES du VS Romand"
+title: "Formation continue obligatoire des ES du Valais Romand"
 subtitle: "Réunion stratégique SE & HEP-VS &#x1F3AF;"  
 team: "Comité de pilotage du projet"
 author: "Sous la direction d'Anne-Françoise Martinon"
